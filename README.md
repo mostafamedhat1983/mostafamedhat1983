@@ -65,6 +65,13 @@ Git, GitHub
 
 ---
 
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mostafamedhat1983&show_icons=true&theme=radical&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Mostafa%20Medhat's%20GitHub%20Stats)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mostafamedhat1983&layout=compact&theme=radical&hide=html,css,javascript,typescript,java&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+
+---
+
 ## 🎓 Certifications & Programs
 - AWS Certified Solutions Architect – Professional (2023)
 - AWS DevOps Engineer – Professional *(in progress – expected 2026)*
