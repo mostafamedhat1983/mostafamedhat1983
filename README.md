@@ -7,9 +7,10 @@
 ![Linux](https://img.shields.io/badge/Linux-Systems-black?logo=linux&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white)
 
-AWS Certified Solutions Architect – Professional  
-KCNA: Kubernetes and Cloud Native Associate (2025)  
-AWS Community Builder – Active Member (2025)
+- AWS Certified Solutions Architect – Professional
+- KCNA: Kubernetes and Cloud Native Associate (2025)
+- AWS Community Builder – Active Member (2025)
+
 
 DevOps Engineer with a strong focus on AWS cloud infrastructure, Kubernetes, and Infrastructure as Code.  
 Bringing 15+ years of systems and operations experience, currently specializing in building secure, scalable,
