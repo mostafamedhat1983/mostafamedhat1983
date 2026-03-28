@@ -77,3 +77,5 @@ Git, GitHub
 - AWS Community Builder – Active Member (2025)
 - Huawei Cloud Certified Developer Associate (2024)
 - GitHub Foundations (2024)
+
+![Mostafa Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
