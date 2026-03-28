@@ -65,6 +65,7 @@ Linux/Unix, TCP/IP, DNS, Load Balancing
 Git, GitHub  
 
 ---
+## **📊 GitHub Stats**
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mostafamedhat1983&show_icons=true&theme=radical&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Mostafa%20Medhat's%20GitHub%20Stats)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
