@@ -64,9 +64,14 @@ Git, GitHub
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafamedhat1983&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafamedhat1983&show_icons=true&theme=radical&bg_color=0d1117&border_color=7928ca&title_color=ffffff&text_color=cccccc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamedhat1983&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=cccccc&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafamedhat1983&theme=radical&bg_color=0d1117&border_color=7928ca&hide_border=true)](https://github.com/Ashutosh00710/github-readme-streak-stats)
+
 
 ---
 
