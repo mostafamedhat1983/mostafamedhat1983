@@ -9,7 +9,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white)
 
 - AWS Certified Solutions Architect – Professional
-- KCNA: Kubernetes and Cloud Native Associate (2025)
+- KCNA: Kubernetes and Cloud Native Associate (2025) — Score: 92% | Sponsored by Andela
 - AWS Community Builder – Active Member (2025)
 
 
@@ -43,7 +43,15 @@ security, and reliability standards.
 
 🔗 **GitHub Repositories**
 - Infrastructure: https://github.com/mostafamedhat1983/terraform-aws-eks  
-- Application: https://github.com/mostafamedhat1983/platform-ai-chatbot  
+- Application: https://github.com/mostafamedhat1983/platform-ai-chatbot
+
+---
+## 🌍 Open Source Contributions
+
+### Kubernetes Arabic Localization — kubernetes/website
+Contributed to translating the official Kubernetes documentation into Arabic.
+
+- 🔗 [PR #54895 — Add overview of Kubernetes components in Arabic](https://github.com/kubernetes/website/pull/54895) — *LGTM received, pending final approval*
 
 ---
 
@@ -77,17 +85,9 @@ Git, GitHub
 ## 🎓 Certifications & Programs
 - AWS Certified Solutions Architect – Professional (2023)
 - AWS DevOps Engineer – Professional *(in progress – expected 2026)*
-- KCNA: Kubernetes and Cloud Native Associate (2025)
+- KCNA: Kubernetes and Cloud Native Associate (2025) — Score: 92% | Sponsored by Andela
 - AWS Community Builder – Active Member (2025)
 - Huawei Cloud Certified Developer Associate (2024)
 - GitHub Foundations (2024)
-
----
-## 🌍 Open Source Contributions
-
-### Kubernetes Arabic Localization — kubernetes/website
-Contributed to translating the official Kubernetes documentation into Arabic.
-
-- 🔗 [PR #54895 — Add overview of Kubernetes components in Arabic](https://github.com/kubernetes/website/pull/54895) — *LGTM received, pending final approval*
 
 ![Mostafa Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
