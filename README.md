@@ -2,6 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Kubernetes%20Contributor-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Systems-black?logo=linux&logoColor=white)
@@ -13,8 +14,7 @@
 
 
 DevOps Engineer with a strong focus on AWS cloud infrastructure, Kubernetes, and Infrastructure as Code.  
-Bringing 15+ years of systems and operations experience, currently specializing in building secure, scalable,
-production-grade cloud-native platforms using modern DevOps practices.
+Bringing 15+ years of systems and operations experience, currently specializing in building secure, scalable, production-grade cloud-native platforms and contributing to open-source Kubernetes documentation (Arabic localization).
 
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-medhat-mostafa/) | 🌐 [Portfolio](https://mostafa-medhat.vercel.app)
@@ -81,5 +81,13 @@ Git, GitHub
 - AWS Community Builder – Active Member (2025)
 - Huawei Cloud Certified Developer Associate (2024)
 - GitHub Foundations (2024)
+
+---
+## 🌍 Open Source Contributions
+
+### Kubernetes Arabic Localization — kubernetes/website
+Contributed to translating the official Kubernetes documentation into Arabic.
+
+- 🔗 [PR #54895 — Add overview of Kubernetes components in Arabic](https://github.com/kubernetes/website/pull/54895) — *LGTM received, pending final approval*
 
 ![Mostafa Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
