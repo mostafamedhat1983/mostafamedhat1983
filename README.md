@@ -14,7 +14,7 @@
 
 
 DevOps Engineer with a strong focus on AWS cloud infrastructure, Kubernetes, and Infrastructure as Code.  
-Bringing 15+ years of systems and operations experience, currently specializing in building secure, scalable, production-grade cloud-native platforms and contributing to open-source Kubernetes documentation (Arabic localization).
+Experienced systems and operations professional transitioning into Cloud and DevOps engineering. Currently specializing in building secure, scalable, production-grade cloud-native platforms and contributing to open-source Kubernetes documentation (Arabic localization).
 
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-medhat-mostafa/) | 🌐 [Portfolio](https://mostafa-medhat.vercel.app)
@@ -84,7 +84,7 @@ Git, GitHub
 
 ## 🎓 Certifications & Programs
 - AWS Certified Solutions Architect – Professional (2023)
-- AWS DevOps Engineer – Professional *(in progress – expected 2026)*
+- AWS DevOps Engineer – Professional *(in progress)*
 - KCNA: Kubernetes and Cloud Native Associate (2025) — Score: 92% | Sponsored by Andela
 - AWS Community Builder – Active Member (2025)
 - Huawei Cloud Certified Developer Associate (2024)
