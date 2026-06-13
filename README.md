@@ -13,8 +13,7 @@
 - AWS Community Builder – Active Member (2025)
 
 
-DevOps Engineer with a strong focus on AWS cloud infrastructure, Kubernetes, and Infrastructure as Code.  
-Experienced systems and operations professional transitioning into Cloud and DevOps engineering. Currently specializing in building secure, scalable, production-grade cloud-native platforms and contributing to open-source Kubernetes documentation (Arabic localization).
+AWS Certified Solutions Architect – Professional and KCNA-certified DevOps / Cloud Engineer with a strong focus on AWS, Kubernetes, and Infrastructure as Code. Experienced systems and operations professional specializing in building secure, scalable cloud-native platforms and contributing to open-source Kubernetes documentation (Arabic localization).
 
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-medhat-mostafa/) | 🌐 [Portfolio](https://mostafa-medhat.vercel.app)
