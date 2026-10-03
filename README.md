@@ -82,7 +82,7 @@ Git, GitHub
 ---
 
 ## 🎓 Certifications & Programs
-- AWS Certified Solutions Architect – Professional (2023)
+- AWS Certified Solutions Architect – Professional (2023; Recertified 2026)
 - AWS DevOps Engineer – Professional *(in progress)*
 - KCNA: Kubernetes and Cloud Native Associate (2025) — Score: 92% | Sponsored by Andela
 - AWS Community Builder – Active Member (2025)
